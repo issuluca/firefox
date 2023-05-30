@@ -48,5 +48,6 @@
     "name":"iSSU Dark",
     "manifest_version":2,
     "version":"1.0",
-    "description":"Theme create by iSSU"
+    "description":"Theme create by iSSU",
+    "update_url":"https://github.com/issuluca/firefox/blob/main/theme/issu_theme.json"
 }
